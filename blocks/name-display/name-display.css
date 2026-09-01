@@ -1,1 +1,15 @@
 
+.name-display p {
+    float: left;
+    width: 40%;
+    padding: 10px;
+}
+ 
+.name-display {
+    float: left;
+    width: 100%;
+    background: #ff0000;
+    color: #000;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
